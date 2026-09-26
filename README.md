@@ -1,6 +1,6 @@
 ## 👨‍💻 About *Joel Mgohwole*
 
-Hello! I'm **Joel Mgohwole**, a passionate **Business Insights & Analytics Leader with with 8+ years in data analytics and business intelligence** focused on building practical, scalable, and impactful solutions through technology.
+Hello! I'm a passionate **Business Insights & Analytics Leader with with 8+ years in data analytics and business intelligence** focused on building practical, scalable, and impactful solutions through technology.
 
 I enjoy turning ideas into working products, solving challenging problems, and continuously expanding my knowledge across the world of Data Science & AI.
 
