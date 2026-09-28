@@ -6,7 +6,7 @@ I enjoy turning ideas into working products, solving challenging problems, and c
 
 ## 🏢 Industry & Domain Experience
 
-My data analytics experience spans multiple industries, with exposure to operational, customer, financial, product, and commercial data across Logistics, Construction, Renewable energy, Internet Economy (ride-hailing), Banking, and Fintech.
+My data analytics experience spans multiple industries, with exposure to business operations, customer experience, financial analytics, product management, and commercial data across Logistics, Construction, Renewable energy, Internet Economy (ride-hailing), Banking, and Fintech.
 
 ## 🛠️ Tech Stack
 
